@@ -20,6 +20,7 @@ def run():
             if hp == 0 and cringe_numero != funny_numero:
                 print("Irresponsable use of cockerTM")
                 break
+    
     print("BASED POGGERS POOTIS 2 ENJOYER NICE COCK PERFECT SIZE 10/10 you win get out please laugh im extremely sad i need something")
 
 
