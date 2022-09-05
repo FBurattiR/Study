@@ -1,6 +1,6 @@
 # Study
 
-Repo used for demonstrate my experience, they are not projects, just anotattions for practising
+Repo used for demonstrate my experience, not projects, just anotattions for practising
 Current Folders in 
 
   * Python
